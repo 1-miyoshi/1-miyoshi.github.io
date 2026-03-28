@@ -24,13 +24,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "三好　智也"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "立命館大学理工学部　講師．研究分野：エナジーハーベスティング，MEMS，機能性流体，物理リザバー計算"
+  location         : "525-8577 滋賀県草津市野路東1-1-1 イーストウイング7階710"
+  employer         : "立命館大学"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "tmiyoshi (at) fc.ritsumei.ac.jp" 
 
   # Academic websites
   academia         : # URL
