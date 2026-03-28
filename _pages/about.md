@@ -35,3 +35,5 @@ redirect_from:
 * 2012年3月 	東京工業大学　工学部　機械知能システム学科　卒業
 * 2010年3月 	香川高等専門学校　制御情報工学科　卒業
 
+## 関連リンク
+* [Yamane lab](https://www.yamane.se.ritsumei.ac.jp/){: .btn .btn--info}
