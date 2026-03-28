@@ -7,6 +7,7 @@ redirect_from:
   - /about.html
 ---
 博士（工学）
+講師,
 立命館大学
 理工学部 機械工学科
 
