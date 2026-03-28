@@ -24,13 +24,14 @@ repository               : "1-miyoshi/1-miyoshi.github.io"
 author:
   # Biographic information
   avatar           : "miyoshi20260328s.png"
-  name             : "三好 智也1"
+  name             : "三好 智也11"
   pronouns         : # example: "she/her"  
   bio              : "立命館大学 理工学部 講師．研究分野：エナジーハーベスティング，MEMS，エレクトレット，機能性流体，物理リザバー計算"
   location         : "滋賀県草津市野路東1-1-1 イーストウイング7階710"
   employer         : "立命館大学BKC"
   uri              : # URL
   email            : "tmiyoshi (at) fc.ritsumei.ac.jp"
+  orcid            : "0000-0002-2310-4377"
   researchmap      : "https://researchmap.jp/tmiyoshi"
 
   # Academic websites
@@ -154,6 +155,9 @@ social:
     - label: "researchmap"
       icon: "fas fa-fw fa-graduation-cap"
       url: "https://researchmap.jp/tmiyoshi"
+    - label: "ORCID"
+      icon: "fab fa-fw fa-orcid"
+      url: "https://orcid.org/0000-0002-2310-4377"
 
 
 # Analytics
