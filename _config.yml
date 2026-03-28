@@ -26,8 +26,8 @@ author:
   avatar           : "miyoshi20260328s.png"
   name             : "三好　智也"
   pronouns         : # example: "she/her"  
-  bio              : "立命館大学理工学部　講師．研究分野：エナジーハーベスティング，MEMS，機能性流体，物理リザバー計算"
-  location         : "525-8577 滋賀県草津市野路東1-1-1 イーストウイング7階710"
+  bio              : "立命館大学 理工学部 講師．研究分野：エナジーハーベスティング，MEMS，エレクトレット，機能性流体，物理リザバー計算"
+  location         : "滋賀県草津市野路東1-1-1 イーストウイング7階710"
   employer         : "立命館大学"
   uri              : # URL
   email            : "tmiyoshi (at) fc.ritsumei.ac.jp" 
@@ -35,13 +35,13 @@ author:
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : # https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "https://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0002-2310-4377"
   semantic         : # URL
   ssrn             : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
   scopus           : # URL
   zotero           : # URL
@@ -51,13 +51,13 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : # "academicpages"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # "bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -81,6 +81,7 @@ author:
   xing             : # Username
   youtube          : # Username
   zhihu            : # Username
+  researchmap      : https://researchmap.jp/tmiyoshi
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
