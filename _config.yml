@@ -28,7 +28,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "立命館大学 理工学部 講師．研究分野：エナジーハーベスティング，MEMS，エレクトレット，機能性流体，物理リザバー計算"
   location         : "滋賀県草津市野路東1-1-1 イーストウイング7階710"
-  employer         : "立命館大学"
+  employer         : "立命館大学BKC"
   uri              : # URL
   email            : "tmiyoshi (at) fc.ritsumei.ac.jp" 
 
@@ -55,6 +55,11 @@ author:
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
+
+  - label: "researchmap"
+    icon: "fas fa-fw fa-graduation-cap"
+    url: "https://researchmap.jp/tmiyoshi"
+    
   # Social media
   artstation       : # Username
   bluesky          : # "bsky.app" # Replace this with you Bluesky username
