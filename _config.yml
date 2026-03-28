@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "miyoshi20260328s.png"
   name             : "三好　智也"
   pronouns         : # example: "she/her"  
   bio              : "立命館大学理工学部　講師．研究分野：エナジーハーベスティング，MEMS，機能性流体，物理リザバー計算"
