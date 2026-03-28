@@ -7,12 +7,12 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "en-US"
+locale                   : "ja-JP"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Top page"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "三好 智也"
-description              : &description ""   # Update this with a general description of your site, this is the default if not overridden by a page
+description              : &description "エレクトレットを用いたエナジーハーベスティング、MEMS、フィジカルリザバー計算に関する研究"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://1-miyoshi.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -26,8 +26,8 @@ author:
   avatar           : "miyoshi20260328s.png"
   name             : "三好 智也"
   pronouns         : # example: "she/her"  
-  bio              : "博士（工学）, 立命館大学 理工学部 機械工学科 講師"
-  location         : "滋賀県草津市"
+  bio              : "博士（工学）／立命館大学 理工学部 機械工学科 講師"
+  location         : "滋賀県草津市野路東"
   employer         : "立命館大学"
   uri              : # URL
   email            : "tmiyoshi (at) fc.ritsumei.ac.jp"
