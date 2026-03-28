@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "研究助成 (Research Grants)"
+title: "Research Grants"
 permalink: /grants/
 author_profile: true
 ---
