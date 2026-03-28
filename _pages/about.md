@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "三好 智也 講師"
+title: "三好 智也"
 author_profile: true
 redirect_from: 
   - /about/
