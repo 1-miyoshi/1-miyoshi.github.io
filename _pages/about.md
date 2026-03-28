@@ -36,4 +36,4 @@ redirect_from:
 * 2010年3月 	香川高等専門学校　制御情報工学科　卒業
 
 ## 関連リンク
-* [Yamane lab](https://www.yamane.se.ritsumei.ac.jp/){: .btn .btn--info}
+* [山根研究室](https://www.yamane.se.ritsumei.ac.jp/){: .btn .btn--info}
