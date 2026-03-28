@@ -10,6 +10,7 @@ redirect_from:
 立命館大学
 理工学部 機械工学科
 
+## 業績
 [研究業績はこちら](/publications/){: .btn .btn--info}
 
 ## 研究分野
