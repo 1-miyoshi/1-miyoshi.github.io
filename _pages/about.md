@@ -14,6 +14,7 @@ redirect_from:
 [学会発表](/talks/){: .btn .btn--info}
 [教育実績](/teaching/){: .btn .btn--info}
 [研究助成](/grants/){: .btn .btn--info}
+[表彰等](/awards/){: .btn .btn--info}
 
 ## 研究分野
 エナジーハーベスティング, MEMS, エレクトレット, 機能性流体, 流体アクチュエータ, 物理リザバー計算
