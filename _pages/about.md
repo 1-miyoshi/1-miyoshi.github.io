@@ -10,7 +10,7 @@ redirect_from:
 立命館大学
 理工学部 機械工学科
 
-[研究業績一覧（Publications）](/publications/){: .btn .btn--primary .btn--large}
+[研究業績はこちら](/publications/){: .btn .btn--info}
 
 ## 研究分野
 エナジーハーベスティング，MEMS, エレクトレット，機能性流体，流体アクチュエータ，物理リザバー計算
