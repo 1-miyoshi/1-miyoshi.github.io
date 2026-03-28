@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "学会発表 (Conference)"
+title: "Conference"
 permalink: /talks/
 author_profile: true
 ---
