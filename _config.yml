@@ -54,11 +54,6 @@ author:
   github           : # "academicpages"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
-
-
-  - label: "researchmap"
-    icon: "fas fa-fw fa-graduation-cap"
-    url: "https://researchmap.jp/tmiyoshi"
     
   # Social media
   artstation       : # Username
