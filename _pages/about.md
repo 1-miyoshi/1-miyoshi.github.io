@@ -30,3 +30,4 @@ redirect_from:
 居室: 滋賀県草津市野路東1-1-1 イーストウイング7階 710号室  
 E-mail: tmiyoshi (at) fc.ritsumei.ac.jp
 （at）を＠に変換してください
+TEL: 077-561-2819 (内線：8273)
