@@ -11,7 +11,7 @@ locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "Top page"
 title_separator          : "-"
-name                     : &name "三好 智也"
+name                     : &name "三好 智也1"
 description              : &description "立命館大学理工学部機械工学科　講師"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://1-miyoshi.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
