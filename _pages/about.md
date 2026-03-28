@@ -11,6 +11,7 @@ redirect_from:
 理工学部 機械工学科
 
 [論文一覧](/publications/){: .btn .btn--info}
+[学会発表](/talks/){: .btn .btn--info}
 [教育実績](/teaching/){: .btn .btn--info}
 [研究助成](/grants/){: .btn .btn--info}
 
