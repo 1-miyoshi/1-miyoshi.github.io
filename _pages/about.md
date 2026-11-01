@@ -9,6 +9,8 @@ redirect_from:
 博士（工学）  
 講師  
 立命館大学 理工学部 機械工学科
+助教（兼務）
+東京大学　大学院情報理工学系研究科　知能機械情報学専攻
 
 [論文一覧](/publications/){: .btn .btn--info}
 [学会発表](/talks/){: .btn .btn--info}
